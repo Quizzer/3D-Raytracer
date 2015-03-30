@@ -1,14 +1,24 @@
-# 3D-Raytracer
+3D-Raytracer
+============
 Recursive Raytracer written in Python.
 
-following:
-configuration instructions
-installation instructions
-operating instructions
-a file manifest
-copyright and licensing information
-contact information for the distributor or programmer
-known bugs
-troubleshooting
-credits and acknowledgements
-a changelog
+### Installation
+- install Python (reference version 2.7.) and call main script with 
+- `>> python Controller.py`
+- you have the following options 
+- `>> python Controller.py [aufgaben-Nr] [Bildbreite] [Bildhöhe]`
+- e.g. picture #2 with 1920x1080 pixels is called by 
+- `>> python Controller.py 2 1920 1080`
+- default parameters are 
+- `>> python Controller.py 3 400 400`
+
+### Generated Images
+- #1 - non-recursive Raytracer ![raytracer#1](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg1.bmp)
+- #2 - recursive Raytracer ![raytracer#2](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg2.bmp)
+- #3 - recursive Raytracer with structured floor space ![raytracer#3](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg3.bmp)
+
+
+###### a project by Dominik Neu
+    at RheinMain University of Applied Sciences
+    for subject "Generative Computergrafik"
+    teached by Prof. Dr. U. Schwanecke
