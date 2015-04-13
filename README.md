@@ -13,9 +13,11 @@ Recursive Raytracer written in Python.
 - `>> python Controller.py 3 400 400`
 
 ### Generated Images
-- #1 - non-recursive Raytracer ![raytracer#1](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg1.bmp)
-- #2 - recursive Raytracer ![raytracer#2](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg2.bmp)
-- #3 - recursive Raytracer with structured floor space ![raytracer#3](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg3.bmp)
+- #1 - non-recursive Raytracer [1920x680] (https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg1.bmp)
+- ![raytracer#1](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg1_preview.jpg)
+- #2 - recursive Raytracer (https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg2.bmp)
+- ![raytracer#2](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg2_preview.jpg)
+- #3 - recursive Raytracer with structured floor space (https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg3.bmp) ![raytracer#3](https://github.com/Quizzer/3D-Raytracer/blob/master/img/RayTracer_Aufg3_preview.jpg)
 
 
 ###### a project by Dominik Neu
